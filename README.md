@@ -1,4 +1,5 @@
-#Notepad Web App
+# Notepad Web App
+
 It uses local storage of your system to store files
 
 You can perform following options,
